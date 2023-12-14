@@ -60,10 +60,4 @@
 
 ###
 
-
-<div align="left">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@daniel.stuart14/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@daniel.stuart14/0" alt="Recent Article 0">
-    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@daniel.stuart14/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@daniel.stuart14/1" alt="Recent Article 1">
-<div align="left">
-
 ###
