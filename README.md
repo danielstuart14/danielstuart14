@@ -54,8 +54,6 @@
   <img src="https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=black&style=for-the-badge" height="40" alt="fedora logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/WebAssembly-654FF0?logo=webassembly&logoColor=white&style=for-the-badge" height="40" alt="webassembly logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=black&style=for-the-badge" height="40" alt="cloudflare logo"  />
 </div>
 
 ###
