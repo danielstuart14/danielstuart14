@@ -51,9 +51,11 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=black&style=for-the-badge" height="40" alt="fedora logo"  />
+  <img src="https://img.shields.io/badge/Fedora_Silverblue-51A2DA?logo=fedora&logoColor=white&style=for-the-badge" height="40" alt="fedora logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/WebAssembly-654FF0?logo=webassembly&logoColor=white&style=for-the-badge" height="40" alt="webassembly logo"  />
+  <img src="https://img.shields.io/badge/Ubuntu_Core-DE4714?logo=ubuntu&logoColor=white&style=for-the-badge" height="40" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Embedded_WebAssembly-654FF0?logo=webassembly&logoColor=white&style=for-the-badge" height="40" alt="webassembly logo"  />
 </div>
 
 ###
