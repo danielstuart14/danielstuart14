@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">📖 Computer Engineer<br>🎯 Embedded Developer @ Localiza<br>🌎 Curitiba - Brazil<br>🦀 Rustacean<br>My most recent project: <a href="https://protoviz.stu.art.br" target="_blank">ProtoViz</a></p>
+<p align="left">📖 Computer Engineer<br>🌎 Curitiba - Brazil<br>🦀 Rustacean<br>My most recent project: <a href="https://protoviz.stu.art.br" target="_blank">ProtoViz</a></p>
 
 ###
 
