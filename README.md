@@ -29,19 +29,17 @@
 
 ###
 <div align="left">
-  <img src="https://avatars.githubusercontent.com/u/19595895?s=280&v=4" height="40" alt="Zephyr logo"  />
+  <img src="https://avatars.githubusercontent.com/u/19595895?s=280&v=4" height="40" alt="ZephyrOS"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="AWS"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="40" alt="arduino logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/graphql/E10098" height="40" alt="graphql logo"  />
+  <img src="https://cdn.simpleicons.org/graphql/E10098" height="40" alt="GraphQL"  />
 </div>
 
 ###
@@ -50,13 +48,13 @@
 
 ###
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Fedora_Silverblue-51A2DA?logo=fedora&logoColor=white&style=for-the-badge" height="40" alt="fedora logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Ubuntu_Core-DE4714?logo=ubuntu&logoColor=white&style=for-the-badge" height="40" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Embedded_WebAssembly-654FF0?logo=webassembly&logoColor=white&style=for-the-badge" height="40" alt="webassembly logo"  />
-</div>
+
+[<img src="https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=white&style=for-the-badge" height="40" alt="fedora shield"  />](https://fedoraproject.org/)
+<img width="12" />
+[<img src="https://img.shields.io/badge/Embassy-DE4714?logo=Rust&logoColor=white&style=for-the-badge" height="40" alt="embassy shield"  />](https://embassy.dev/)
+<img width="12" />
+[<img src="https://img.shields.io/badge/WebAssembly-654FF0?logo=webassembly&logoColor=white&style=for-the-badge" height="40" alt="webassembly shield"  />](https://webassembly.org/)
+
 
 ###
 
