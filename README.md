@@ -3,7 +3,10 @@
 
 ###
 
-<p align="left">📖 Computer Engineer<br>🌎 Curitiba - Brazil<br>🦀 Rustacean<br>My most recent project: <a href="https://protoviz.stu.art.br" target="_blank">ProtoViz</a></p>
+<p align="left">📖 Computer Engineer<br>🌎 Curitiba - Brazil<br>🦀 Rustacean<br><br>Check my most recent projects:<br>
+  <a href="https://github.com/embive/embive" target="_blank">Embive</a><br>
+  <a href="https://protoviz.stu.art.br" target="_blank">ProtoViz</a>
+</p>
 
 ###
 
