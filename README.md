@@ -3,10 +3,7 @@
 
 ###
 
-<p align="left">📖 Computer Engineer<br>🌎 Curitiba - Brazil<br>🦀 Rustacean<br><br>Check my most recent projects:<br>
-  <a href="https://github.com/embive/embive" target="_blank">Embive</a><br>
-  <a href="https://protoviz.stu.art.br" target="_blank">ProtoViz</a>
-</p>
+<p align="left">📖 Computer Engineer<br>📦 Embedded Developer<br>🦀 Rustacean<br></p>
 
 ###
 
@@ -15,15 +12,15 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
+  <img src="https://skillicons.dev/icons?i=rust" height="50" width="50" alt="Rust"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <img src="https://skillicons.dev/icons?i=c" height="50" width="50" alt="C"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img src="https://skillicons.dev/icons?i=cpp" height="50" width="50" alt="C++"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="50" width="50" alt="Python"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
+  <img src="https://skillicons.dev/icons?i=flutter" height="50" width="50" alt="Flutter"  />
 </div>
 
 ###
@@ -32,17 +29,15 @@
 
 ###
 <div align="left">
-  <img src="https://avatars.githubusercontent.com/u/19595895?s=280&v=4" height="40" alt="ZephyrOS"  />
+  <img src="https://avatars.githubusercontent.com/u/19595895" height="50" width="50" alt="ZephyrOS"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" width="50" alt="Linux"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="AWS"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="50" width="50" alt="Docker"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" width="50" alt="PostgreSQL"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/graphql/E10098" height="40" alt="GraphQL"  />
+  <img src="https://cdn.simpleicons.org/graphql/E10098" height="50" width="50" alt="GraphQL"  />
 </div>
 
 ###
@@ -52,11 +47,11 @@
 ###
 
 
-[<img src="https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=white&style=for-the-badge" height="40" alt="fedora shield"  />](https://fedoraproject.org/)
+[<img src="https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=white&style=for-the-badge" height="40" alt="Fedora"  />](https://fedoraproject.org/)
 <img width="12" />
-[<img src="https://img.shields.io/badge/Embassy-DE4714?logo=Rust&logoColor=white&style=for-the-badge" height="40" alt="embassy shield"  />](https://embassy.dev/)
+[<img src="https://img.shields.io/badge/Embassy-DE4714?logo=Rust&logoColor=white&style=for-the-badge" height="40" alt="Embassy"  />](https://embassy.dev/)
 <img width="12" />
-[<img src="https://img.shields.io/badge/WebAssembly-654FF0?logo=webassembly&logoColor=white&style=for-the-badge" height="40" alt="webassembly shield"  />](https://webassembly.org/)
+[<img src="https://img.shields.io/badge/WebAssembly-654FF0?logo=webassembly&logoColor=white&style=for-the-badge" height="40" alt="WebAssembly"  />](https://webassembly.org/)
 
 
 ###
